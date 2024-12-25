@@ -1,0 +1,79 @@
+body h1,
+body .h1-typo {
+  font-size: 2.5rem;
+  font-weight: bold;
+  line-height: 1.3;
+}
+body h2,
+body .h2-typo {
+  font-size: 2rem;
+  font-weight: bold;
+  line-height: 1.25;
+}
+
+body h3,
+body .h3-typo {
+  font-size: 1.75rem;
+  font-weight: bold;
+  line-height: 1.29;
+}
+body h4,
+body .h4-typo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  line-height: 1.33;
+}
+body h5,
+body .h5-typo {
+  font-size: 1.25rem;
+  font-weight: bold;
+  line-height: 1.4;
+}
+body h6,
+body .h6-typo {
+  font-size: 1rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+body .label1-typo {
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: normal;
+}
+
+body .label2-typo {
+  font-size: 0.875rem;
+  font-weight: normal;
+  line-height: 1.71;
+}
+
+body .label3-typo {
+  font-size: 0.75rem;
+  font-weight: normal;
+  line-height: normal;
+}
+
+body .caption-typo {
+  font-size: 0.625rem;
+  font-weight: normal;
+  line-height: normal;
+}
+
+body .button-lg-typo {
+  font-size: 1.125rem;
+  font-weight: 500;
+  line-height: normal;
+}
+
+body .body-typo {
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: 1.13;
+}
+
+body .body20-typo {
+  font-size: 1.25rem;
+  font-weight: normal;
+  line-height: 1.85;
+}
